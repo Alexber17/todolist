@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Hepta+Slab&display=swap');
+
+body{
+ 
+    font-family: 'Hepta Slab', serif !important;
+}
+
+.fit-image{
+width: 100%;
+object-fit: cover;
+height: 300px; /* only if you want fixed height */
+}
+
+
